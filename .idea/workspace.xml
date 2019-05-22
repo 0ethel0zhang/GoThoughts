@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="410ec054-0716-4539-9387-dd43b5bb699c" name="Default Changelist" comment="" />
+    <list default="true" id="410ec054-0716-4539-9387-dd43b5bb699c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/Analyze.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/Analyze.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secret/mythings.py" beforeDir="false" afterPath="$PROJECT_DIR$/secret/mythings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notebook/twitter_streaming.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -22,12 +26,32 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/secret/mythings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="66" selection-start-column="66" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/notebook/twitter_streaming.py" />
+        <option value="$PROJECT_DIR$/secret/mythings.py" />
       </list>
     </option>
   </component>
@@ -36,6 +60,7 @@
     <option name="width" value="1440" />
     <option name="height" value="827" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -53,6 +78,11 @@
               <item name="GoT" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoT" type="462c0819:PsiDirectoryNode" />
               <item name="notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GoT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoT" type="462c0819:PsiDirectoryNode" />
+              <item name="secret" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,6 +155,13 @@
           <folding>
             <element signature="e#50#93#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/secret/mythings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="66" selection-start-column="66" selection-end-column="66" />
         </state>
       </provider>
     </entry>
