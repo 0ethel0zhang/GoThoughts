@@ -1,3 +1,5 @@
 secret/
 TweetClassifier/
 .idea/
+.env
+/data/

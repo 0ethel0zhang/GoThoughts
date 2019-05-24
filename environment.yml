@@ -1,0 +1,8 @@
+dependencies:
+ - python
+ - numpy
+ - scikit-learn
+ - jupyter
+ - pip:
+   - tweepy
+   - python-dotenv
