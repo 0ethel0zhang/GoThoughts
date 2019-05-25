@@ -3,6 +3,8 @@ dependencies:
  - numpy
  - scikit-learn
  - jupyter
+ - pandas
+ - matplotlib
  - pip:
    - tweepy
    - python-dotenv
