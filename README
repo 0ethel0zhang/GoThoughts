@@ -1,0 +1,11 @@
+Create the environment running the following command in command line:
+	conda env create -f environment.yml -n NAMEYOULIKE
+
+Activate the environment using:
+	conda activate NAMEYOULIKE
+
+Create a .env file in the main directory with the following access information (use your own key and token):
+	export API_key = "whatever"
+	export API_secret_key = "whatever"
+	export Access_token = "whatever"
+	export Access_token_secret = "Whatever"
