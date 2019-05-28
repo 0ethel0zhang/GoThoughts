@@ -3,4 +3,5 @@ TweetClassifier/
 .idea/
 .env
 /data/
+.DS_Store
 /notebook/archive
