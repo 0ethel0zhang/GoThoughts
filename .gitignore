@@ -3,3 +3,4 @@ TweetClassifier/
 .idea/
 .env
 /data/
+/notebook/archive

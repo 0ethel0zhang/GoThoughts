@@ -8,3 +8,6 @@ dependencies:
  - pip:
    - tweepy
    - python-dotenv
+   - GetOldTweets3
+   - nltk
+   - gensim
