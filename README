@@ -4,7 +4,11 @@ Create the environment running the following command in command line:
 Activate the environment using:
 	conda activate NAMEYOULIKE
 
-Create a .env file in the main directory with the following access information (use your own key and token):
+Get the data by running the following commands in the main folder:
+	make clean
+	make all
+
+If you want to access the most recent twitter data instead. Create a .env file in the main directory with the following access information (use your own key and token):
 	export API_key = "whatever"
 	export API_secret_key = "whatever"
 	export Access_token = "whatever"
