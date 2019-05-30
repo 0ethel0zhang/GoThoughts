@@ -2,7 +2,9 @@
 
 training_url = 'https://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz'
 
-all: data/raw/output_got.csv
+all: 
+	data/raw/output_got.csv
+	data/rar/review_polarity.tar.gz
 
 clean:
 	rm -f data/raw/*.csv
