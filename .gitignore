@@ -1,7 +1,7 @@
-secret/
+notebook/.ipynb_checkpoints/
 TweetClassifier/
 .idea/
 .env
 /data/
 .DS_Store
-/notebook/archive
+/notebook/archive/
