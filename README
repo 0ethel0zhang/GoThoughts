@@ -13,3 +13,5 @@ If you want to access the most recent twitter data instead. Create a .env file i
 	export API_secret_key = "whatever"
 	export Access_token = "whatever"
 	export Access_token_secret = "Whatever"
+
+To checkout/run the main analysis, please go to notebook/Analyze.ipynb
