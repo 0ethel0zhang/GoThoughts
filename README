@@ -1,5 +1,5 @@
 Create the environment running the following command in command line:
-	conda env create -f environment.yml -n NAMEYOULIKE
+	conda create -f environment.yml -n NAMEYOULIKE
 
 Activate the environment using:
 	conda activate NAMEYOULIKE
